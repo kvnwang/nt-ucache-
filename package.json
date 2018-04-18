@@ -1,0 +1,24 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "amqplib": "^0.5.2",
+    "commander": "^2.15.1",
+    "content-disposition": "^0.5.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "newrelic": "^4.0.0",
+    "path": "^0.12.7",
+    "redis": "^2.8.0",
+    "throng": "^4.0.0"
+  }
+}
